@@ -16,7 +16,7 @@ void TShirt::SetBusinessRules()
 
 	if (Quality == ProductQuality::PREMIUM)
 	{
-		float percent = -0.3f;
+		float percent = 0.3f;
 		BusinessRulesPercent.push_back(percent);
 	}
 }
