@@ -1,0 +1,14 @@
+﻿  Application.cpp
+  ApplicationTools.cpp
+E:\Projects\QuarkExamen\ClothingWholesaler\ApplicationTools.cpp(27,9): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\QuarkExamen\ClothingWholesaler\ApplicationTools.cpp(55,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  IGenericQuestion.cpp
+  IPrintable.cpp
+  Pants.cpp
+  ProductType.cpp
+  Quotation.cpp
+  Seller.cpp
+  Store.cpp
+  TShirt.cpp
+  Generating Code...
+  ClothingWholesaler.vcxproj -> E:\Projects\QuarkExamen\x64\Debug\ClothingWholesaler.exe
